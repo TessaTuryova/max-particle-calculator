@@ -20,7 +20,7 @@ Gemfile.lock
 node_modules
 dist
 .env
-.idea/
+.idea
 
 # Logs
 logs
